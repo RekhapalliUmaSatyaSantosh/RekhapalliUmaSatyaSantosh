@@ -52,5 +52,5 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RekhapalliUmaSatyaSantosh&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=RekhapalliUmaSatyaSantosh&theme=tokyonight&hide_border=true" />
 </p>
