@@ -52,5 +52,5 @@
 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rekhapalliumasatyasantosh" />
+  <img src="https://streak-stats.demolab.com?user=RekhapalliUmaSatyaSantosh&theme=tokyonight" />
 </p>
