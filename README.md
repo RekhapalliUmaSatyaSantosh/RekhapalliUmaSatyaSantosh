@@ -51,6 +51,4 @@
 
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RekhapalliUmaSatyaSantosh&theme=tokyonight&hide_border=true" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rekhapalliumasatyasantosh&" alt="rekhapalliumasatyasantosh" /></p>
