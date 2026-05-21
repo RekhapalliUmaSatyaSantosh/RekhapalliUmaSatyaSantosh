@@ -51,8 +51,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rekhapalliumasatyasantosh&" alt="rekhapalliumasatyasantosh" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rekhapalliumasatyasantosh&" alt="rekhapalliumasatyasantosh" /></p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+
+<p></p>
