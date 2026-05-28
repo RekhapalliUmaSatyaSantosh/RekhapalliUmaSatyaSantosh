@@ -7,7 +7,7 @@
 - 👨‍💻 Portfolio: https://satyasantosh.lovable.app/
 - 💬 Ask me about **Python, SQL, HTML, CSS, JavaScript**
 - 📫 Email: **santoshrekahapalli@gmail.com**
-- 📄 Resume: https://drive.google.com/file/d/13nAHW5TXgVYAKtg37MnvkAifhn0Nk2cj/view
+- 📄 Resume: https://drive.google.com/file/d/1yvYr79iVbUvSpiHsPY1MCjmtuLCS4m2n/view?usp=drivesdk
 
 ---
 
@@ -48,7 +48,6 @@
 </p>
 
 ---
-
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rekhapalliumasatyasantosh&" alt="rekhapalliumasatyasantosh" /></p>
