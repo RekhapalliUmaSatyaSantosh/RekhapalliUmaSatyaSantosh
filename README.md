@@ -56,19 +56,3 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rekhapalliumasatyasantosh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<h3 align="center">💻 Most Used Languages</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekhapalliumasatyasantosh&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-
-<p></p>
