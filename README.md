@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rekhapalli Uma Satya Santosh</h1>
+<h1 align="center" style="background-color: red;">Hi 👋, I'm Rekhapalli Uma Satya Santosh</h1>
 <h3 align="center">A Passionate Python Full Stack Developer from India</h3>
 
 ---
