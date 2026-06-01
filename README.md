@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://www.hackerrank.com/profile/santoshrekahapa1" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40" height="40"/>
 </a>
 </p>
 
