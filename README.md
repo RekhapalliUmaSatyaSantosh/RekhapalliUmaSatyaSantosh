@@ -15,7 +15,7 @@
 - 👨‍💻 Portfolio: **https://satyasantosh.lovable.app/**
 - 💬 Ask me about **Python, SQL, HTML, CSS, JavaScript**
 - 📫 Email: **santoshrekahapalli@gmail.com**
-- 📄 Resume: **Your Resume Link**
+- 📄 Resume: **https://drive.google.com/file/d/1yvYr79iVbUvSpiHsPY1MCjmtuLCS4m2n/view?usp=drivesdk**
 
 ---
 
@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://www.hackerrank.com/profile/santoshrekahapa1" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="50" />
 </a>
 </p>
 
@@ -58,10 +58,14 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rekhapalliumasatyasantosh&show_icons=true&theme=tokyonight" />
-</p>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekhapalliumasatyasantosh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rekhapalliumasatyasantosh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<h3 align="center">💻 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekhapalliumasatyasantosh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
