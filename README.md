@@ -26,8 +26,8 @@
 <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
 
-<a href="https://www.hackerrank.com/profile/santoshrekahapa1" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="50" />
+<a href="https://www.hackerrank.com/profile/santoshrekahapa1" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 </p>
 
