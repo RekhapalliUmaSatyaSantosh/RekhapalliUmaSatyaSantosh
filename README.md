@@ -58,4 +58,3 @@
 
 <p>
 </p>
-Add snake game to it
