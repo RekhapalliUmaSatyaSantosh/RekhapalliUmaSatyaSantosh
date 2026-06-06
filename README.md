@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="color:#ff5733;">Hi 👋, I'm</span>
-  <span style="color:(155,158,150);">Rekhapalli Uma Satya Santosh</span>
+  <span style="color:#9b9e96;">Rekhapalli Uma Satya Santosh</span>
 </h1>
 
 <h3 align="center">
@@ -22,13 +22,12 @@
 <h3 style="color:#ff6600;">🌐 Connect with me</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/uma-satya-santosh-rekhapalli/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/santoshrekahapa1" target="_blank">
-  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="50" height="50"/>
-</a>
+  <a href="https://www.linkedin.com/in/uma-satya-santosh-rekhapalli/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/santoshrekahapa1" target="_blank">
+    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="50" height="50"/>
+  </a>
 </p>
 
 ---
@@ -36,53 +35,28 @@
 <h3 style="color:#00cc99;">💻 Languages and Tools</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" />
 </p>
 
 ---
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=rekhapalliumasatyasantosh&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=rekhapalliumasatyasantosh&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
-<p>
-  
-</p>
+
 <h3 align="center">🔥 GitHub Streak</h3>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rekhapalliumasatyasantosh&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rekhapalliumasatyasantosh&theme=radical" />
 </p>
 
 ---
 
-<p>
-</p>
+<h3 align="center">🐍 Contribution Snake</h3>
 
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: RekhapalliUmaSatyaSantosh
-          outputs: dist/github-snake.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+<p align="center">
+  <img src="https://githubusercontent.com" alt="GitHub Snake" />
+</p>
