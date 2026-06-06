@@ -53,10 +53,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rekhapalliumasatyasantosh&theme=radical" />
 </p>
 
----
 
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Snake" />
-</p>
