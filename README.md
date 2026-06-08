@@ -53,4 +53,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rekhapalliumasatyasantosh&theme=radical" />
 </p>
 
-![GitHub Snake](https://raw.githubusercontent.com/RekhapalliUmaSatyaSantosh/RekhapalliUmaSatyaSantosh/output/github-snake.svg)
