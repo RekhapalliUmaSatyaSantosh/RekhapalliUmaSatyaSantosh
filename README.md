@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="color:#ff5733;">Hi 👋, I'm</span>
-  <span style="color:#9b9e96;">Rekhapalli Uma Satya Santosh</span>
+  <span style="color:#f67e23;">Rekhapalli Uma Satya Santosh</span>
 </h1>
 
 <h3 align="center">
