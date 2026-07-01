@@ -15,7 +15,7 @@
 - 👨‍💻 Portfolio: **https://santoshrekhapalli-portfo.vercel.app/**
 - 💬 Ask me about **Python, SQL, HTML, CSS, JavaScript**
 - 📫 Email: **santoshrekahapalli@gmail.com**
-- 📄 Resume: **https://drive.google.com/file/d/1rW0Y_UNhjY_Vth2-LJP1bV2gWriodV-8/view**
+- 📄 Resume: **https://drive.google.com/file/d/1teDxy-XxgmRh3Ju-0Q9SqfXfTKQUQh6p/view**
 
 ---
 
