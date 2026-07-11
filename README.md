@@ -2,7 +2,6 @@
   <span style="color:#ff5733;">Hi 👋, I'm</span>
   <div style="backgorund-color:rgb(235, 124, 40);">REKHAPALLI UMA SATYA SANTOSH</div>
 </h1>
-
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ff3434&center=true&vCenter=true&width=800&lines=A+Passionate+Python+Full+Stack+Developer+from+India" alt="Typing SVG" />
 </h3>
