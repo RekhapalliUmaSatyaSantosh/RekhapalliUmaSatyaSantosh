@@ -35,7 +35,7 @@
 <h3 style="color:#00cc99;">💻 Languages and Tools</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" />
 </p>
 
