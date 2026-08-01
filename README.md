@@ -16,7 +16,7 @@
 - 💬 Ask me about **Python, SQL, HTML, CSS, JavaScript, BootStrap**
 - 📫 Email: **santoshrekahapalli@gmail.com**
 - 📄 Resume: **https://drive.google.com/file/d/1teDxy-XxgmRh3Ju-0Q9SqfXfTKQUQh6p/view**
-
+  
 ---
 
 <h3 style="color:#ff6600;">🌐 Connect with me</h3>
