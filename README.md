@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **Python Full Stack Development**
-- 👨‍💻 Portfolio: **https://santoshrekhapalli-portfo.vercel.app/**
+- 👨‍💻 Portfolio: **https://santosh-portfolio-a7d2.onrender.com/**
 - 💬 Ask me about **Python, Django, SQL, HTML, CSS, JavaScript, BootStrap, Git, Docker**
 - 📫 Email: **santoshrekahapalli@gmail.com**
 - 📄 Resume: **https://drive.google.com/file/d/1WHx59hXi_Wj_vN8BR2BsSWRJLppgBFlh/view?usp=drive_link**
