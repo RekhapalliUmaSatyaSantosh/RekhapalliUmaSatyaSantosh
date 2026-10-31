@@ -15,7 +15,7 @@
 - 👨‍💻 Portfolio: **https://santosh-portfolio-a7d2.onrender.com/**
 - 💬 Ask me about **Python, Django, SQL, HTML, CSS, JavaScript, BootStrap, Git, Docker**
 - 📫 Email: **santoshrekahapalli@gmail.com**
-- 📄 Resume: **https://drive.google.com/file/d/1WHx59hXi_Wj_vN8BR2BsSWRJLppgBFlh/view?usp=drive_link**
+- 📄 Resume: **https://drive.google.com/file/d/1lpUJkAyyUKUP-aEYqCl_sqh7EODWOq9c/view?usp=drive_link**
   
 ---
 
